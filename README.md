@@ -20,7 +20,7 @@ A FastAPI-based backend API for e-commerce admin dashboard that provides detaile
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/bilalahmad9755/forsit-assessment
 cd e-commerce-admin-api
 ```
 
